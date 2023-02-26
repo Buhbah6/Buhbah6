@@ -9,6 +9,7 @@ Over the last 3 years I've been studying various aspects of Computer Science suc
 
 - Software Development (Java, C#, Python, and more)
 - Network Design and Administration
+- Database Design and Administration (SQL, phpmyadmin, noSQL such as Firebase, etc.)
 - IoT Systems Design
 - App Development for Android and Windows
 - Unix systems use and manipulation
