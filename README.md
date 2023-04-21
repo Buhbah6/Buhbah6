@@ -4,8 +4,10 @@
 ##### Hi! My name is Anthony Nadeau :bowtie:
 ###### My pronouns are He/Him
 
-I'm currently a Comp Sci student learning the ins-and-outs of the software development world.
-Over the last 3 years I've been studying various aspects of Computer Science such as:
+I'm currently a Computer Engineering student at the university level.
+Recently, I completed my technical DCS (equivalent to an associates degree) in Computer Science.
+In this program, I dedicated 3 years to learning the ins-and-outs of the software development world.
+Over these 3 years I studied various aspects of Computer Science such as:
 
 - Software Development (Java, C#, Python, and more)
 - Network Design and Administration
@@ -15,6 +17,7 @@ Over the last 3 years I've been studying various aspects of Computer Science suc
 - Unix systems use and manipulation
 - Web Development (HTML, CSS, JavaScript, PHP)
 - Game Development in Unity
+- Cybersecurity
 And tons of other stuff!
 
 I'm a strong supporter of **FLOSS** projects and ideas, and I'd love to involve myself in more of them in the future.
