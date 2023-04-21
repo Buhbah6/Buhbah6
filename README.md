@@ -7,6 +7,7 @@
 I'm currently a Computer Engineering student at the university level.
 Recently, I completed my technical DCS (equivalent to an associates degree) in Computer Science.
 In this program, I dedicated 3 years to learning the ins-and-outs of the software development world.
+
 Over these 3 years I studied various aspects of Computer Science such as:
 
 - Software Development (Java, C#, Python, and more)
