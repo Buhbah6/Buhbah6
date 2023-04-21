@@ -19,6 +19,7 @@ Over these 3 years I studied various aspects of Computer Science such as:
 - Web Development (HTML, CSS, JavaScript, PHP)
 - Game Development in Unity
 - Cybersecurity
+
 And tons of other stuff!
 
 I'm a strong supporter of **FLOSS** projects and ideas, and I'd love to involve myself in more of them in the future.
