@@ -27,7 +27,7 @@ All in all, I'm a tech enthusiast at heart, and this field is truly my greatest 
 
 ## My Profile :bulb:
 ##### My profile is very **structured**
-My main repositories are separated by semester.  
+My main repositories are separated by semester, both at the College level and the University level.  
 Each one shows the significant works I completed during my time studying in that semester.  
 I believe it shows my evolution and progression as a software developer quite nicely! I hope you'll think so as well. :smiley:
 
