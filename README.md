@@ -5,7 +5,7 @@
 ###### My pronouns are He/Him
 
 I'm currently a Computer Engineering student at the university level.
-Recently, I completed my technical DCS (equivalent to an associates degree) in Computer Science.
+In Spring of 2023, I completed my technical DCS (equivalent to an associates degree) in Computer Science.
 In this program, I dedicated 3 years to learning the ins-and-outs of the software development world.
 
 Over these 3 years I studied various aspects of Computer Science such as:
@@ -23,6 +23,7 @@ Over these 3 years I studied various aspects of Computer Science such as:
 And tons of other stuff!
 
 I'm a strong supporter of **FLOSS** projects and ideas, and I'd love to involve myself in more of them in the future.
+I'm currently what I would consider a *baby Debian Contributor*, so I'm looking to expand my contributions in that regard.
 All in all, I'm a tech enthusiast at heart, and this field is truly my greatest passion. :heart:
 
 ## My Profile :bulb:
@@ -47,7 +48,7 @@ And really anything else I can find time for :star2:
 ## How to Contact Me
 
 I can be reached at any of the following pages:  
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-anthony-nadeau/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tonynadeau03/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonynadeau03@gmail.com) [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://www.tonytheengineer.ca)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-anthony-nadeau/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://www.instagram.com/tonys/](https://www.instagram.com/tonysprojectsandprints)) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonynadeau03@gmail.com) [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://www.tonytheengineer.ca)
 
 I'm open to collaboration on projects, so if that interests you  
 I hope we can work together in the future!
